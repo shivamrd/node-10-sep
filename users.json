@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Rodolph",
+        "last_name": "Ritchley",
+        "email": "rritchley0@theglobeandmail.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Gabbi",
+        "last_name": "Stranks",
+        "email": "gstranks1@wunderground.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Alphonse",
+        "last_name": "Dorn",
+        "email": "adorn2@yahoo.co.jp",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Chaunce",
+        "last_name": "Yanyshev",
+        "email": "cyanyshev3@acquirethisname.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Kaleena",
+        "last_name": "Filipchikov",
+        "email": "kfilipchikov4@marriott.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Johanna",
+        "last_name": "Redwin",
+        "email": "jredwin5@mozilla.org",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Chrisse",
+        "last_name": "Kubik",
+        "email": "ckubik6@altervista.org",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Genevieve",
+        "last_name": "Brickstock",
+        "email": "gbrickstock7@theatlantic.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Ame",
+        "last_name": "Bartolomucci",
+        "email": "abartolomucci8@amazon.de",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 10,
+        "first_name": "Krisha",
+        "last_name": "Skurm",
+        "email": "kskurm9@163.com",
+        "gender": "Male"
+    },
+    {
+        "first_name": "Aylma",
+        "last_name": "McKinno",
+        "email": "amckinno89@wordpress.com",
+        "gender": "Male",
+        "id": 11
+    }
+]
